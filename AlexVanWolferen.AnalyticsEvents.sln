@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexVanWolferen.Events", "AlexVanWolferen.Events\AlexVanWolferen.Events.csproj", "{7ADC2BDF-559A-4204-A776-9807A676B697}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".Config", ".Config", "{1F9174C4-557F-4633-819D-0D97DE2B06C4}"
+	ProjectSection(SolutionItems) = preProject
+		nuget.config = nuget.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ADC2BDF-559A-4204-A776-9807A676B697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADC2BDF-559A-4204-A776-9807A676B697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADC2BDF-559A-4204-A776-9807A676B697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADC2BDF-559A-4204-A776-9807A676B697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5808228-6B4E-4491-8E0B-E8DFB0011002}
+	EndGlobalSection
+EndGlobal
